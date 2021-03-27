@@ -2,6 +2,9 @@
 
 return [
 
+    'asaas_url' => 'https://www.asaas.com/api/v3/',
+    'asaas_key' => '3609c447cfb3b019ae8ec13babc19cb0de9f25d2b129fb2f83467884718263c9',
+
     /*
     |--------------------------------------------------------------------------
     | Application Name
